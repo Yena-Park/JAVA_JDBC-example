@@ -6,7 +6,7 @@ import java.sql.*;
 
 public class DBConnector {
 	
-	private static final String url="jdbc:mysql://localhost:3306/PUBLICLIBRARY";
+	private static final String url="jdbc:mysql://localhost:3306/publiclibrary";
     private static final String DriverClass="com.mysql.jdbc.Driver";
     private static final String user="root";
     private static final String password="rootroot";
